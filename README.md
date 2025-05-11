@@ -1,0 +1,1 @@
+# Batch-Export-PDFs-from-macOS-App-via-cliclick-Automation
